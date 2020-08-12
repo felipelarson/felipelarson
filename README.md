@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Felipe Larson da Silveira :man_technologist:
 
 [![Linkedin Badge](https://img.shields.io/badge/-felipesilveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
-[![Gmail Badge](https://img.shields.io/badge/-felipelarson@msn.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
+[![Gmail Badge](https://img.shields.io/badge/-felipelarson@msn.com-c14438?style=flat-square&logo=Msn&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
 
 ![Linkedin Badge](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript##&logoColor=white)
