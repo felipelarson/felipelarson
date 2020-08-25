@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
 
 ![Welcome](https://raw.githubusercontent.com/felipelarson/felipelarson/master/html.png)
-![Badge](/css.png?raw=true)
-![Badge](/js.png?raw=true)
+![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/css.png)
+![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/js.png)
 ![Badge](/jquery.png?raw=true)
 ![Badge](/react.png?raw=true)
 ![Badge](/php.png?raw=true)
