@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/react.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/php.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/codeigniter.png)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=radical)
