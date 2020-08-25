@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![Badge](/html.png?raw=true)
 ![Badge](/css.png?raw=true)
 ![Badge](/js.png?raw=true)
+![Badge](/jquery.png?raw=true)
 ![Badge](/react.png?raw=true)
 ![Badge](/php.png?raw=true)
 ![Badge](/codeigniter.png?raw=true)
