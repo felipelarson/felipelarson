@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
 
 ![Badge](/html.png?raw=true)
-![Linkedin Badge](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=PHP&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript##&logoColor=white)
+![Badge](/css3.png?raw=true)
+![Badge](/js.png?raw=true)
+![Badge](/react.png?raw=true)
+![Badge](/php.png?raw=true)
