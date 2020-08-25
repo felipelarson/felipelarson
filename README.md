@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
 
 ![Badge](/html.png?raw=true)
-![Badge](/css.png?raw=true)
+![Badge](/https://github.com/felipelarson/felipelarson/blob/master/css.png?raw=true)
 ![Badge](/js.png?raw=true)
 ![Badge](/jquery.png?raw=true)
 ![Badge](/react.png?raw=true)
