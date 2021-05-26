@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi Human, I'm Felipe Larson da Silveira (DOM SILVEIRA) :man_technologist:
+# Hi Human, I'm Felipe Larson da Silveira :man_technologist:
 
 {
   idade: "40",
