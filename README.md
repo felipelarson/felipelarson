@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 {
   idade: "40",
   cidade: "Lisboa",
-  area: "web developer"
+  area: "Full Stack"
 }
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
