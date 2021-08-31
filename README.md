@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 }
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@msn.com)](mailto:felipelarson@msn.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
 
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/html.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/css.png)
