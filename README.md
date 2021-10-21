@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=nord)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats)
