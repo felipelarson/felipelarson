@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   area: "Full Stack"
 }
 
-<hr>
+<hr />
 
 </div>
   <div style="display: inline_block"><br>
@@ -40,11 +40,11 @@ Here are some ideas to get you started:
   <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white">
 </div>
 
-<hr>
+<hr />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
-
+<hr />
 <!-- ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/html.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/css.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/js.png)
