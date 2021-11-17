@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/CODEIGNITER-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img align="center" alt="teck-CSS" src="https://img.shields.io/badge/JEST-18df16?style=for-the-badge&logo=jest&logoColor=white">
 </div>
 
 <hr>
