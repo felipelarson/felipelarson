@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/react.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/php.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/codeigniter.png) -->
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=nord)
-
+<div>
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=nord)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=7&theme=monokai"/>
+</div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats) -->
