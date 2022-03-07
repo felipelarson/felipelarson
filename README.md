@@ -61,3 +61,4 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats) -->
+  <img src="https://www.codewars.com/users/felipeLarsonSilveira/badges/micro" alt="codewars" />
