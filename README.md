@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 <hr />
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
+<hr />
+
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="teck-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,9 +55,7 @@ Here are some ideas to get you started:
 </div>
 <hr />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
-<hr />
+
 <!-- ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/html.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/css.png)
 ![Badge](https://raw.githubusercontent.com/felipelarson/felipelarson/master/js.png)
