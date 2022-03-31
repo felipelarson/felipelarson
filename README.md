@@ -32,18 +32,21 @@ My hard skills:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REDUX Badge](https://img.shields.io/badge/REDUX-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![CYPRESS Badge](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/REDUX-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Cypress Badge](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white)
 
 - Back End:&nbsp;&nbsp;
-![python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![flask Badge](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Php Badge](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
+![Codeigniter]("https://img.shields.io/badge/CODEIGNITER-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white")
+![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask Badge](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JEST Badge](https://img.shields.io/badge/JEST-18df16?style=for-the-badge&logo=jest&logoColor=white)
+![Jest Badge](https://img.shields.io/badge/JEST-18df16?style=for-the-badge&logo=jest&logoColor=white)
 
 - Database:&nbsp;&nbsp;
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql Badge]("https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white")
 <!-- ![HTML Badge]() -->
 
   ##
