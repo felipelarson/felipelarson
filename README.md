@@ -37,7 +37,7 @@ My hard skills:
 
 - Back End:&nbsp;&nbsp;
 ![Php Badge](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
-![Codeigniter]("https://img.shields.io/badge/CODEIGNITER-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white")
+![Codeigniter Badge]("https://img.shields.io/badge/CODEIGNITER-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white")
 ![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask Badge](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,7 +47,7 @@ My hard skills:
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql Badge]("https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white")
-<!-- ![HTML Badge]() -->
+
 
   ##
  A little about myself:
