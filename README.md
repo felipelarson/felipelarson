@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.codewars.com/users/felipeLarsonSilveira/badges/micro" alt="codewars" />
 
-<hr />
+##
 
 My hard skills:
  - Front End:&nbsp;&nbsp;
@@ -47,7 +47,7 @@ My hard skills:
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-  ##
+##
  A little about myself:
 
 - 🔭 I'm currently looking for work.
@@ -55,7 +55,8 @@ My hard skills:
 - 📫 How to reach me:&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-larson-da-silveira/)](https://www.linkedin.com/in/felipe-larson-da-silveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelarson@gmail.com)](mailto:felipelarson@gmail.com)
-<hr />
+
+##
 <!-- 
 <div>
   <div style="display: inline_block"><br>
