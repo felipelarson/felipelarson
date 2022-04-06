@@ -39,6 +39,7 @@ My hard skills:
 ![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma Badge](https://img.shields.io/badge/BULMA-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
 ![Chakra Badge](https://img.shields.io/badge/CHAKRA-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+![Material Badge](https://img.shields.io/badge/MATERIAL-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 - Back End:&nbsp;&nbsp;
 ![Php Badge](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
