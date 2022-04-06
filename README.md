@@ -101,6 +101,6 @@ My hard skills:
 <div>
 <!--   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=nord) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=8&theme=nord"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&theme=nord"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats) -->
