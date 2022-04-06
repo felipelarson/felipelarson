@@ -98,3 +98,14 @@ My hard skills:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact)](https://github.com/felipelarson/github-readme-stats) -->
+
+<div align="center">
+    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
+
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/by-lucas/count.svg"/>
+</p>
