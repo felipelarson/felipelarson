@@ -35,8 +35,9 @@ My hard skills:
 ![Redux Badge](https://img.shields.io/badge/REDUX-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![Cypress Badge](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white)
 
-- Styles:&nbsp;&nbsp;
+- Framework CSS:&nbsp;&nbsp;
 ![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-8892bf?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma Badge](https://img.shields.io/badge/BULMA-8892bf?style=for-the-badge&logo=bulma&logoColor=white)
 
 - Back End:&nbsp;&nbsp;
 ![Php Badge](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
