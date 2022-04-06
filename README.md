@@ -36,8 +36,8 @@ My hard skills:
 ![Cypress Badge](https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress&logoColor=white)
 
 - Framework CSS:&nbsp;&nbsp;
-![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-8892bf?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma Badge](https://img.shields.io/badge/BULMA-00ff00?style=for-the-badge&logo=bulma&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma Badge](https://img.shields.io/badge/BULMA-00d1b2?style=for-the-badge&logo=bulma&logoColor=white)
 ![Chakra Badge](https://img.shields.io/badge/CHAKRA-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
 - Back End:&nbsp;&nbsp;
