@@ -38,6 +38,7 @@ My hard skills:
 - Framework CSS:&nbsp;&nbsp;
 ![Bootstrap Badge](https://img.shields.io/badge/BOOTSTRAP-8892bf?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma Badge](https://img.shields.io/badge/BULMA-8892bf?style=for-the-badge&logo=bulma&logoColor=white)
+![Chakra Badge](https://img.shields.io/badge/CHAKRA-8892bf?style=for-the-badge&logo=chakraui&logoColor=white)
 
 - Back End:&nbsp;&nbsp;
 ![Php Badge](https://img.shields.io/badge/PHP-8892bf?style=for-the-badge&logo=php&logoColor=white)
