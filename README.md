@@ -1,31 +1,27 @@
-<h1 align="center">I'm Felipe Larson da Silveira</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipelarson&label=Profile%20views&color=0e75b6&style=flat"
-    alt="felipelarson" />
-</p>
+<div>
+  <h1 align="center">I'm Felipe Larson da Silveira</h1>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=felipelarson&label=Profile%20views&color=0e75b6&style=flat"
+      alt="felipelarson" />
+  </p>
+</div>  
+
 <hr />
 
-<div>
-
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=felipelarson&show_icons=true&locale=en&layout=compact&theme=dracula"
-      alt="felipelarson" />
-
-    <img src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en&theme=dracula"
-      alt="felipelarson" />
-
+<div align="center">
+  <a href="https://beacons.ai/felipelarson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipelarson&" alt="felipelarson" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipelarson&theme=dracula" alt="felipelarson" />
 </p>
 
 <hr />
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -117,10 +113,10 @@
 </p>
 
 <hr />
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div align="center">
   <p>
     <a href="https://github.com/felipelarson/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=felipelarson" alt="felipelarson" />
+      <img src="https://github-profile-trophy.vercel.app/?username=felipelarson&theme=dracula" alt="felipelarson" />
     </a>
   </p>
 </div>
@@ -128,7 +124,7 @@
 <hr />
 <h3 align="center">CONTACT ME</h3>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <p align="left">
+  <p align="center">
     <a href="https://linkedin.com/in/felipe-larson-da-silveira" target="blank">
       <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -137,4 +133,3 @@
   </p>
 
 </div>
-<hr />
