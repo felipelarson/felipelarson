@@ -6,14 +6,17 @@
 </p>
 <hr />
 
-<div >
-
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en"
-      alt="felipelarson" />
-
-    <img align="right"
+<div align="center">
+  <p>
+    <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=felipelarson&show_icons=true&locale=en&layout=compact"
       alt="felipelarson" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en"
+      alt="felipelarson" />
+  </p>
 </div>
 
 <p align="center">
