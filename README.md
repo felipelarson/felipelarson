@@ -7,13 +7,13 @@
 <hr />
 
 <div align="center">
-  <p>
+  <p align="left">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=felipelarson&show_icons=true&locale=en&layout=compact"
       alt="felipelarson" />
   </p>
 
-  <p>
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en"
       alt="felipelarson" />
   </p>
