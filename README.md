@@ -123,16 +123,18 @@
 </div>
 
 <hr />
-<h3 align="center">CONTACT ME</h3>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <p align="center">
-    <a href="https://linkedin.com/in/felipe-larson-da-silveira" target="blank">
-      <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="felipe-larson-da-silveira" height="30" width="40" />
-    </a>
-  </p>
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/felipe-larson-da-silveira" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="felipe-larson-da-silveira" height="30" width="40" />
+  </a>
+</p>
+
+
+<hr />
   
-  [Felipe Certificado.pdf](https://github.com/felipelarson/felipelarson/files/8793839/Felipe.Certificado.pdf)
+<img src="https://user-images.githubusercontent.com/48024940/170882434-7a256055-c0e4-43ba-a863-afa76547760d.png" width="300"/>
+<!-- ![Felipe Certificado-1](https://user-images.githubusercontent.com/48024940/170882434-7a256055-c0e4-43ba-a863-afa76547760d.png) -->
+
