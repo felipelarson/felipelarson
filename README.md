@@ -13,7 +13,7 @@
       alt="felipelarson" />
   </p>
 
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en"
       alt="felipelarson" />
   </p>
