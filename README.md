@@ -7,16 +7,14 @@
 <hr />
 
 <div>
-  <p align="left">
+
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=felipelarson&show_icons=true&locale=en&layout=compact&theme=dracula"
       alt="felipelarson" />
-  </p>
 
-  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en&theme=dracula"
       alt="felipelarson" />
-  </p>
+
 </div>
 
 <p align="center">
