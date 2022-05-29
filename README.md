@@ -6,7 +6,7 @@
 </p>
 <hr />
 
-<div  align="center">
+<div >
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&locale=en"
       alt="felipelarson" />
