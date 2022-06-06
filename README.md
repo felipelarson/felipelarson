@@ -17,7 +17,7 @@
 
 ---
 
-## :hammer_and_wrench: &nbsp; technologies
+## :hammer_and_wrench: &nbsp; Technologies
 
 <p align="center">
   
