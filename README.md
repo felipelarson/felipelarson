@@ -15,10 +15,6 @@
   </a>
 </div>
 
-<!-- <p align="center">
-  
-</p> -->
-
 ---
 
 ## :hammer_and_wrench: &nbsp; technologies
@@ -119,7 +115,7 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="background: #fff;">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40" />
   </a>
   
@@ -203,7 +199,7 @@
   
 </p>
 
-<hr />
+---
 
 ## :phone: &nbsp; Contacts
   
@@ -216,12 +212,12 @@
 </p>
 
 
-<hr />
+---
 
 ## :man_student: &nbsp; Diplomas and Certificates
 
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/48024940/172136657-c1e399b7-44dd-4513-adf3-2887c0f1909a.png" width="300"/> &nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/48024940/172161763-a290fa85-9c43-4730-bcfb-a0a5623de3d5.png" width="300"/> &nbsp;
-  <img align="center" src="https://user-images.githubusercontent.com/48024940/172138045-7d9ca05b-8bea-4859-a1be-9f9fa7643dd1.png" height="300" />
+  <img align="center" src="https://user-images.githubusercontent.com/48024940/172138045-7d9ca05b-8bea-4859-a1be-9f9fa7643dd1.png" height="300"/>
 </p>
