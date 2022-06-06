@@ -5,7 +5,7 @@
 
 ---
 
-## :gear: &nbsp; Github Analítico
+## :gear: &nbsp; Github Analitics
 
 <div align="left">
   <a href="https://beacons.ai/felipelarson"> 
@@ -21,7 +21,7 @@
 
 ---
 
-## :hammer_and_wrench: &nbsp; Tecnologias que domino
+## :hammer_and_wrench: &nbsp; technologies
 
 <p align="center">
   
@@ -33,7 +33,7 @@
   </a>
   
   
-  ### Estilos
+  ### Styles
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
@@ -84,7 +84,7 @@
   </a>
   
   
-  ### Frameworks/Bibliotecas
+  ### Frameworks/Libraries
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -125,7 +125,7 @@
   
   
   
-  ### Banco de dados SQL/NOSQL
+  ### SQL/NOSQL
   
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
@@ -152,7 +152,7 @@
   
   
   
-  ### Ferramentas
+  ### Tools
     
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -194,7 +194,7 @@
   </a>
   
   
-### Sistemas
+### Systems
   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
@@ -204,16 +204,7 @@
 </p>
 
 <hr />
-  
-<!-- <div align="center">
-  <p>
-    <a href="https://github.com/felipelarson/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=felipelarson&theme=dracula" alt="felipelarson" />
-    </a>
-  </p>
-</div>
 
-<hr /> -->
 ## :phone: &nbsp; Contato
   
 <p align="left">
@@ -234,5 +225,3 @@
   <img align="center" src="https://user-images.githubusercontent.com/48024940/172161763-a290fa85-9c43-4730-bcfb-a0a5623de3d5.png" width="300"/> &nbsp;
   <img align="center" src="https://user-images.githubusercontent.com/48024940/172138045-7d9ca05b-8bea-4859-a1be-9f9fa7643dd1.png" height="300" />
 </p>
-<!-- ![Felipe Certificado-1](https://user-images.githubusercontent.com/48024940/170882434-7a256055-c0e4-43ba-a863-afa76547760d.png) -->
-
