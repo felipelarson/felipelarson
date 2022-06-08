@@ -39,7 +39,7 @@
 ## :phone: &nbsp; Contacts
   
 <p align="left">
-  <a href="https://linkedin.com/in/felipe-larson-da-silveira" target="blank">
+  <a href="https://linkedin.com/in/felipe-larson-da-silveira" target="_blank">
     <img align="center"
       src="https://icons.iconarchive.com/icons/designbolts/ios8-style-social/256/Linkedin-icon.png"
       alt="felipe-larson-da-silveira" height="50" />
