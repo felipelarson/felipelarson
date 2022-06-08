@@ -53,7 +53,7 @@
 
 ---
 
-## :man_student: &nbsp; Diplomas and Certificates
+## :man_student: &nbsp; Degree and Certificates
 
 <p align="left">
   <img align="center" src="https://user-images.githubusercontent.com/48024940/172136657-c1e399b7-44dd-4513-adf3-2887c0f1909a.png" width="300"/> &nbsp;
