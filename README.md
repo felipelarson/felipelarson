@@ -9,6 +9,7 @@
 ## :gear: &nbsp; Github Analitics
 
 <div align="left">
+
   <a href="https://beacons.ai/felipelarson"> 
     <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipelarson&theme=dracula" alt="felipelarson" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
