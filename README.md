@@ -34,11 +34,11 @@
 |  | Stacks |
 | --- | --- |
 | **Highlighter** | <img src="https://skillicons.dev/icons?i=html,md&theme=light" alt="highlighter" /> |
-| **Styles** | <img src="https://skillicons.dev/icons?i=css,sass,bootstrap,bulma,materialize,tailwind&theme=light" alt="styles" /> |
+| **Styles** | <img src="https://skillicons.dev/icons?i=css,sass,bootstrap,tailwind&theme=light" alt="styles" /> <img src="https://img.shields.io/badge/--white?style=flat-square&logo=bulma&logoColor=00D1B2" height="48" alt="bulma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-plain.svg" width="48" height="48" alt="materialize" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,php,python&theme=light" alt="languages" /> |
-| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,codeigniter,laravel,flask,django,nestjs,jquery&theme=light" alt="frameworks and libraries" /> |
-| **SQL/NoSQL** | <img src="https://skillicons.dev/icons?i=mariadb,mongodb,mysql,postgres,sqlite&theme=light" alt="sql and nosql" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=docker,bash,git,github,postman,insomnia,composer&theme=light" alt="tools" /> |
+| **Frameworks/Libraries** | <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,laravel,flask,django,nestjs,jquery&theme=light" alt="frameworks and libraries" /> <img src="https://img.shields.io/badge/--white?style=flat-square&logo=codeigniter&logoColor=EF4223" height="48" alt="codeigniter" /> |
+| **SQL/NoSQL** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=light" alt="sql and nosql" /> <img src="https://img.shields.io/badge/--white?style=flat-square&logo=mariadb&logoColor=003545" height="48" alt="mariadb" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=docker,bash,git,github,postman&theme=light" alt="tools" /> <img src="https://img.shields.io/badge/--white?style=flat-square&logo=insomnia&logoColor=4000BF" height="48" alt="insomnia" /> <img src="https://img.shields.io/badge/--white?style=flat-square&logo=composer&logoColor=885630" height="48" alt="composer" /> |
 | **Deploy** | <img src="https://skillicons.dev/icons?i=heroku,vercel&theme=light" alt="deploy" /> |
 | **Mockups** | <img src="https://skillicons.dev/icons?i=xd,figma&theme=light" alt="mockups" /> |
 | **Systems** | <img src="https://skillicons.dev/icons?i=linux,apple&theme=light" alt="systems" /> |
