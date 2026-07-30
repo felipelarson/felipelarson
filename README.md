@@ -15,6 +15,26 @@
 - :computer: Full-Stack Developer, construindo aplicações do front ao back, do banco de dados ao deploy.
 - :seedling: Sempre estudando novas ferramentas, frameworks e boas práticas.
 - :mailbox: Aberto a novas oportunidades — fica à vontade pra entrar em contato!
+- :round_pushpin: Lisboa, Portugal
+- :speech_balloon: Português (nativo) · Inglês (B1)
+
+---
+
+### :briefcase: &nbsp; Experiência
+
+**Enline** — Desenvolvedor Full Stack ⋅ *jun/2022 – atual*
+Mirandela, Portugal · Energy Technology
+
+**Kenzie Academy Brasil** — Peer Coach (Monitoria) ⋅ *ago/2021 – dez/2021*
+Curitiba, Brasil · Suporte técnico, revisão de código (JavaScript, React, Redux) e acompanhamento de alunos
+
+---
+
+### :sparkles: &nbsp; Projetos em destaque
+
+| [institucional_enline](https://github.com/felipelarson/institucional_enline) | [cv-felipe-silveira](https://github.com/felipelarson/cv-felipe-silveira) |
+| :--- | :--- |
+| Site institucional da Enline — Next.js, TypeScript e Chakra UI, com foco em apresentar informações corporativas de forma elegante e responsiva. | Meu currículo/portfólio pessoal — Vite, React e TypeScript. [Ver ao vivo »](https://cv-felipe-silveira.vercel.app) |
 
 ---
 
