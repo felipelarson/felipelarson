@@ -32,9 +32,9 @@ Curitiba, Brasil · Suporte técnico, revisão de código (JavaScript, React, Re
 
 ### :sparkles: &nbsp; Projetos em destaque
 
-| [institucional_enline](https://github.com/felipelarson/institucional_enline) | [cv-felipe-silveira](https://github.com/felipelarson/cv-felipe-silveira) |
-| :--- | :--- |
-| Site institucional da Enline — Next.js, TypeScript e Chakra UI, com foco em apresentar informações corporativas de forma elegante e responsiva. | Meu currículo/portfólio pessoal — Vite, React e TypeScript. [Ver ao vivo »](https://cv-felipe-silveira.vercel.app) |
+| [institucional_enline](https://github.com/felipelarson/institucional_enline) |
+| :--- |
+| Site institucional da Enline — Next.js, TypeScript e Chakra UI, com foco em apresentar informações corporativas de forma elegante e responsiva. |
 
 ---
 
