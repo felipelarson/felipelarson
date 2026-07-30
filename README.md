@@ -47,11 +47,10 @@
 
 ## :man_student: &nbsp; Degree and Certificates
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48024940/172136657-c1e399b7-44dd-4513-adf3-2887c0f1909a.png" width="300"/> &nbsp;
-  <img src="https://user-images.githubusercontent.com/48024940/172161763-a290fa85-9c43-4730-bcfb-a0a5623de3d5.png" width="300"/> &nbsp;
-  <img src="https://user-images.githubusercontent.com/48024940/172138045-7d9ca05b-8bea-4859-a1be-9f9fa7643dd1.png" height="300"/>
-</p>
+| Kenzie Academy | One Bit Code | ETIC |
+| :---: | :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/48024940/172136657-c1e399b7-44dd-4513-adf3-2887c0f1909a.png" height="200"/> | <img src="https://user-images.githubusercontent.com/48024940/172161763-a290fa85-9c43-4730-bcfb-a0a5623de3d5.png" height="200"/> | <img src="https://user-images.githubusercontent.com/48024940/172138045-7d9ca05b-8bea-4859-a1be-9f9fa7643dd1.png" height="200"/> |
+| **Desenvolvimento Full Stack**<br/>2.000h | **Full Stack JavaScript**<br/>50h · mai/2021 | **Web Development**<br/>Diploma · nov/2020 |
 
 ---
 
