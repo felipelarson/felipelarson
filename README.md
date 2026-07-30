@@ -1,6 +1,6 @@
 <div align="center">
 
-# :wave: &nbsp; Olá, eu sou o Felipe
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Felipe+%F0%9F%91%8B;Full-Stack+Developer;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=felipelarson&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-larson-da-silveira)
@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipelarson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="felipelarson stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=16&theme=dracula&hide_border=true" alt="felipelarson top langs" />
+<img height="165em" src="https://github-readme-stats-felipelarson.vercel.app/api?username=felipelarson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="felipelarson stats" />
+<img height="165em" src="https://github-readme-stats-felipelarson.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=16&theme=dracula&hide_border=true" alt="felipelarson top langs" />
 
 </div>
 
