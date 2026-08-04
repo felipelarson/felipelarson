@@ -30,20 +30,20 @@ Curitiba, Brasil · Suporte técnico, revisão de código (JavaScript, React, Re
 
 ---
 
-### :sparkles: &nbsp; Projetos em destaque
+<!-- ### :sparkles: &nbsp; Projetos em destaque
 
 | [institucional_enline](https://github.com/felipelarson/institucional_enline) |
 | :--- |
 | Site institucional da Enline — Next.js, TypeScript e Chakra UI, com foco em apresentar informações corporativas de forma elegante e responsiva. |
 
----
+--- -->
 
 ## :gear: &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-felipelarson.vercel.app/api?username=felipelarson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="felipelarson stats" />
-<img height="165em" src="https://github-readme-stats-felipelarson.vercel.app/api/top-langs/?username=felipelarson&layout=compact&langs_count=16&theme=dracula&hide_border=true" alt="felipelarson top langs" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=felipelarson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=pt-br&hide_border=true&custom_title=Felipe%27s%20GitHub%20Stats&ring_color=79dafa&number_format=short" alt="felipelarson stats" />
+<img height="220em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=felipelarson&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&disable_animations=true&locale=pt-br" alt="felipelarson top langs" />
 
 </div>
 
